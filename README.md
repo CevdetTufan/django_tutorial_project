@@ -1,2 +1,2 @@
-# django_tutorial_project
-django tutorial project
+# Django Tutorial Project
+django music store tutorial project
